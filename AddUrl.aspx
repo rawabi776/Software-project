@@ -18,18 +18,7 @@
         }
         .auto-style3 {
             background-color: #EAE8DC;
-            font-family: "Britannic Bold";
-            text-align: center;
-        }
-        </style>
-</head>
-<body style="height: 429px; width: 730px">
-    <form id="form1" runat="server" class="auto-style4">
-    <div class="auto-style1">
-    
-        &nbsp;&nbsp;&nbsp;&nbsp;<h1 class="auto-style3">ADD URL</h1>
-        <br />
-&nbsp;&nbsp;&nbsp;&nbsp;
+  
         <asp:Label ID="Label4" runat="server" Text="Course Name"></asp:Label>
 &nbsp;&nbsp;
         <asp:DropDownList ID="Major" runat="server">
